@@ -1,0 +1,51 @@
+*{margin: 0px;}
+.nvl1
+{
+    background-color: red;
+    padding: 100px;
+    width: 400px;
+    border-radius: 200px;
+    border-top: 40px;
+}
+.nvl2
+{
+    background-color: yellow;
+    padding: 15px;
+    border-radius: 10px;
+    width: 70px;
+}
+.nvl3
+{
+    background-color: green;
+    padding: 20px;
+    border-radius: 5px;
+    width: 40px;
+}
+.nvl4
+{
+    background-color: rgb(22, 233, 202);
+    padding: 30px;
+    border-radius: 5px;
+    width: 20px;
+}
+.nvl5
+{
+    background-color: green;
+    padding: 40px;
+    border-radius: 10px;
+    width: 5px;
+}
+.nvl6
+{
+    background-color: rgb(231, 35, 156);
+    padding: 40px;
+    border-radius: 10px;
+    width: 5px;
+}
+.nvl7
+{
+    background-color: green;
+    padding: 40px;
+    border-radius: 10px;
+    width: 5px;
+}
